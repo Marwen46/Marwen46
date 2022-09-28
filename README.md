@@ -23,13 +23,12 @@
 
 ### 📊 Stats
 
-![Marwen46's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwen46&show_icons=true&theme=gruvbox)
+![Marwen46's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwen46&show_icons=true&theme=gruvbox&include_all_commits=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Marwen46&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwen46&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwen46&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
