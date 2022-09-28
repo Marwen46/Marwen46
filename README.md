@@ -23,7 +23,7 @@
 
 ### 📊 Stats
 
-![Marwen46's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwen46&show_icons=true&theme=gruvbox&count_private=true)
+![Marwen46's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwen46&show_icons=true&theme=gruvbox&count_private=true&hide=stars,issues,contribs)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Marwen46&theme=gruvbox&border_radius=4.5) -->
 
