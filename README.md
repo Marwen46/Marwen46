@@ -1,7 +1,7 @@
 ![Header](./githubV2.png)
 # 👋, I'm Marouene AYOUB
 
-**`Software engineering student (Engineer/Developer/Technology geek)`**
+**`Software engineer (Engineer/Developer/Technology geek)`**
 
 I'm an tunisian full-stack developer and computer science engineering student building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
